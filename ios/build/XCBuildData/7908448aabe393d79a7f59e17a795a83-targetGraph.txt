@@ -1,0 +1,36 @@
+Target dependency graph (12 targets)
+Flutter in Pods, no dependencies
+GoogleMaps in Pods, no dependencies
+gallery_saver in Pods, depends on:
+Flutter in Pods (explicit)
+google_maps_flutter_ios in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleMaps in Pods (explicit)
+image_downloader in Pods, depends on:
+Flutter in Pods (explicit)
+libPhoneNumber-iOS in Pods, no dependencies
+libphonenumber in Pods, depends on:
+Flutter in Pods (explicit)
+libPhoneNumber-iOS in Pods (explicit)
+libphonenumber_plugin in Pods, depends on:
+Flutter in Pods (explicit)
+libPhoneNumber-iOS in Pods (explicit)
+libphonenumber in Pods (explicit)
+path_provider_ios in Pods, depends on:
+Flutter in Pods (explicit)
+shared_preferences_ios in Pods, depends on:
+Flutter in Pods (explicit)
+url_launcher in Pods, depends on:
+Flutter in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Flutter in Pods (explicit)
+GoogleMaps in Pods (explicit)
+gallery_saver in Pods (explicit)
+google_maps_flutter_ios in Pods (explicit)
+image_downloader in Pods (explicit)
+libPhoneNumber-iOS in Pods (explicit)
+libphonenumber in Pods (explicit)
+libphonenumber_plugin in Pods (explicit)
+path_provider_ios in Pods (explicit)
+shared_preferences_ios in Pods (explicit)
+url_launcher in Pods (explicit)

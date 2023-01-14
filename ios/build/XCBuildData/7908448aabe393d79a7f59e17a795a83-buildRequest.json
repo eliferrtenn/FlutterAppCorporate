@@ -1,0 +1,79 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9818352c54edac2258b91768852065ce5e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a2bf891aef861f2a73a11de2c6b3038a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98df83286ef0c813795b2a6e5600f49912"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9877405e8f5d5f4878857a4e4e741f7be6"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98cf967cac1404da9136421b5727731b8d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e02517e5bda7c94bdde2530f5414c13a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e6c097e1cc5fcea9e2772db768a546c0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986f0e8be830d0d3c28782ddeefee89819"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b35b2234c62e83383ef7c2509ddd49f7"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e8cd2c510461aaa30819666e6706f51b"
+    }
+  ],
+  "containerPath" : "/Users/eliferten/Desktop/FLUTTER/protekno/pro_tekno1 2/ios/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/eliferten/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/eliferten/Library/Developer/Xcode/DerivedData/Pods-abhwpzxfplocwmaxbudmwfqdjyfi/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/eliferten/Library/Developer/Xcode/DerivedData/Pods-abhwpzxfplocwmaxbudmwfqdjyfi/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
